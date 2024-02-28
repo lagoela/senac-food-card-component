@@ -15,3 +15,6 @@ bun dev
 ```
 
 Agora é só abrir o [http://localhost:3000](http://localhost:3000) no seu navegador para ver a pagina de exemplo, utilizando o componente.
+
+## Componente para Tarefa
+O Componente <p style="color:blue"><code>food-card.tsx</code></p> pode ser encontrado dentro da pasta <code>src</code>
